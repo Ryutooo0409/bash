@@ -1,0 +1,9 @@
+1. 
+total number of subnet is 128 usable host addresses is 128-2 = 126
+subnet mask is 255.255.255.128
+usable addresses range is 
+192.168.1.1 to 192.168.1.126 - 192.168.1.128 to 192.168.1.254
+
+2.
+
+only shows one packet because of only sending get request once at the time
